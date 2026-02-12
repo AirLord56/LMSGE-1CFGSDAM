@@ -1,6 +1,6 @@
 # 📚 LMSGE-1CFGSDAM: Proyectos de Lenguaje de Marcas y Sistemas de Gestión de Información
 
-Este repositorio está dedicado a albergar y documentar los proyectos, ejercicios y prácticas desarrolladas durante el módulo de **Lenguaje de Marcas y Sistemas de Gestión de Información (LMSGI)** del primer curso del **Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Multiplataforma (CFGS DAM)**.
+Este repositorio está dedicado a albergar y documentar los proyectos, ejercicios y prácticas desarrolladas durante el módulo de **Lenguaje de Marcas y Sistemas de Gestión de Información (LMSGI)**(principalmente) del primer curso del **Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Multiplataforma (CFGS DAM)**.
 
 ---
 
